@@ -1,4 +1,7 @@
-# Developer Analytics Dashboard
+<<<<<<< HEAD
+# Self-Analytics-dashboard
+
+Developer Analytics Dashboard
 
 This starter project contains:
 
@@ -23,4 +26,4 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:5173.
+Then open http://localhost:5175.
